@@ -1,8 +1,8 @@
 # edYOU - The Educational Application
 
-## [Sprint 0 Presentation](https://youtu.be/SXnvakehMOw)
-## [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
-## [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
+### [Sprint 0 Presentation](https://youtu.be/SXnvakehMOw)
+### [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
+### [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
 
 ## Product Description 
 
