@@ -35,5 +35,6 @@ Github, Circle CI, Asana
 
 
 
-<img src="/wireframes/Header.png" alt="Alt text" title="Optional title">
+<img src="/wireframes/welcomepage.png" alt="Alt text" title="Optional title">
+<img src="/wireframes/homepage.png" alt="Alt text" title="Optional title">
 
