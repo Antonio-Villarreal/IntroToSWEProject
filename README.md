@@ -23,6 +23,6 @@ Flutter (Dart), NodeJs, MongoDB, GraphQL, Google APIs, and iPhone/Android Emulat
 
 Github, Circle CI, Asana
 
-## [Sprint 0](https://youtu.be/SXnvakehMOw)
-
-
+## [Sprint 0 Presentation](https://youtu.be/SXnvakehMOw)
+## [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
+## [Sprint 2 Presentation](https://youtu.be/07hM9DYSllw)
