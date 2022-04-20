@@ -1,14 +1,14 @@
 # edYOU - The Educational Application
 
+## Product Description 
+
+An educational social media mobile app that streamlines information (videos, articles, news, etc.) about specific topics that the user is interested in. It formats the information in shorter bursts of consumption like a typical social media platform but emphasizes educational content.
+
 <p align="center">
   <img 
     src="/wireframes/Header.png"
   >
 </p>
-
-## Product Description 
-
-An educational social media mobile app that streamlines information (videos, articles, news, etc.) about specific topics that the user is interested in. It formats the information in shorter bursts of consumption like a typical social media platform but emphasizes educational content.
 
 ## Challenge Statement
  
