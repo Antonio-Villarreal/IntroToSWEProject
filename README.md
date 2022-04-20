@@ -1,5 +1,6 @@
 # edYOU - The Educational Application
 
+## Presentations
 ### [Sprint 0 Presentation](https://youtu.be/SXnvakehMOw)
 ### [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
 ### [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
@@ -42,5 +43,3 @@ Github, Circle CI, Asana
   <img src="/wireframes/profilepage.png" />
   <img src="/wireframes/editinterestspage.png" />
 </p>
-
-
