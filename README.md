@@ -33,6 +33,7 @@ Github, Circle CI, Asana
 ## [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
 ## [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
 
+## Wireframes
 <p float="left">
   <img src="/wireframes/welcomepage.png" />
   <img src="/wireframes/loginpage.png" /> 
