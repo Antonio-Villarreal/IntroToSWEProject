@@ -10,9 +10,9 @@ Due to the pandemic and the shift to online learning, the education system conti
 
 ### Our solution addresses the following challenges: 
 
-#1 Shared or online learning experiences 
-#2 Increase student engagement
+1. Shared or online learning experiences 
+2. Increase student engagement
 
-With our product, we mostly focus on addressing challenge statement #1 (Shared or online learning experiences) because it focuses on combating the lack of interest in online learning experiences. This product mimics common social media platforms' behavior but instead provides a continuous stream of learning and educational resources in short bursts. In addition, we address challenge statement #2 because our product reemphasizes education which can also increase students’ engagement in the online classroom and provide educational resources on specific topics.
+With our product, we mostly focus on addressing challenge statement 1 (Shared or online learning experiences) because it focuses on combating the lack of interest in online learning experiences. This product mimics common social media platforms' behavior but instead provides a continuous stream of learning and educational resources in short bursts. In addition, we address challenge statement 2 because our product reemphasizes education which can also increase students’ engagement in the online classroom and provide educational resources on specific topics.
 
 
