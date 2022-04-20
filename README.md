@@ -36,9 +36,10 @@ Github, Circle CI, Asana
 
 ## Wireframes
 <p float="left">
-  <img src="/wireframes/welcomepage.png" />
-  <img src="/wireframes/registrationpage.png" />
-  <img src="/wireframes/homepage.png" /> 
-  <img src="/wireframes/profilepage.png" />
-  <img src="/wireframes/editinterestspage.png" />
+  <img src="/wireframes/welcomepage.png" width="100" />
+  <img src="/wireframes/loginpage.png" width="100" />
+  <img src="/wireframes/registrationpage.png" width="100" />
+  <img src="/wireframes/homepage.png" width="100" /> 
+  <img src="/wireframes/profilepage.png" width="100" />
+  <img src="/wireframes/editinterestspage.png" width="100" />
 </p>
