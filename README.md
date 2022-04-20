@@ -1,4 +1,4 @@
-# edYOU - The Educational Application
+# edYOU - The Educational Social Media Application
 
 ## Presentations
 ### [Sprint 0 Presentation](https://youtu.be/SXnvakehMOw)
