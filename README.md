@@ -1,5 +1,11 @@
 # edYOU - The Educational Application
 
+<p align="center">
+  <img 
+    src="/wireframes/Header.png"
+  >
+</p>
+
 ## Product Description 
 
 An educational social media mobile app that streamlines information (videos, articles, news, etc.) about specific topics that the user is interested in. It formats the information in shorter bursts of consumption like a typical social media platform but emphasizes educational content.
@@ -27,11 +33,7 @@ Github, Circle CI, Asana
 ## [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
 ## [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
 
-<p align="center">
-  <img 
-    src="/wireframes/Header.png"
-  >
-</p>
+
 
 <img src="/wireframes/Header.png" alt="Alt text" title="Optional title">
 
