@@ -35,10 +35,12 @@ Github, Circle CI, Asana
 
 <p float="left">
   <img src="/wireframes/welcomepage.png" />
+  <img src="/wireframes/loginpage.png" /> 
+  <img src="/wireframes/forgetpasswordpage.png" />
+  <img src="/wireframes/registrationpage.png" />
   <img src="/wireframes/homepage.png" /> 
-  <img src="/wireframes/homepage.png" />
+  <img src="/wireframes/profilepage.png" />
+  <img src="/wireframes/editinterestspage.png" />
 </p>
 
-<img src="/wireframes/welcomepage.png" alt="Alt text" title="Optional title">
-<img src="/wireframes/homepage.png" alt="Alt text" title="Optional title">
 
