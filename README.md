@@ -27,5 +27,13 @@ Github, Circle CI, Asana
 ## [Sprint 1 Presentation](https://youtu.be/euD2k7JsRis)
 ## [Sprint 2 Presentation & Demo](https://youtu.be/07hM9DYSllw)
 
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="/wireframes/Header.png"
+  >
+</p>
+
 <img src="/wireframes/Header.png" alt="Alt text" title="Optional title">
 
