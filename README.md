@@ -29,8 +29,6 @@ Github, Circle CI, Asana
 
 <p align="center">
   <img 
-    width="300"
-    height="300"
     src="/wireframes/Header.png"
   >
 </p>
