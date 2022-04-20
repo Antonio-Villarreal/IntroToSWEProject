@@ -37,7 +37,6 @@ Github, Circle CI, Asana
 ## Wireframes
 <p float="left">
   <img src="/wireframes/welcomepage.png" />
-  <img src="/wireframes/loginpage.png" /> 
   <img src="/wireframes/registrationpage.png" />
   <img src="/wireframes/homepage.png" /> 
   <img src="/wireframes/profilepage.png" />
