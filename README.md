@@ -1,16 +1,14 @@
 # edYOU - The Educational Application
-Product Name: edYOU
 
-Product Description: 
+## Product Description: 
 
 An educational social media mobile app that streamlines information (videos, articles, news, etc.) about specific topics that the user is interested in. It formats the information in shorter bursts of consumption like a typical social media platform but emphasizes educational content.
 
-Target Audience: FOR students WHO feel unmotivated to learn in a virtual environment
-
-Challenge Statement: 
+## Challenge Statement:
+ 
 Due to the pandemic and the shift to online learning, the education system continues to face multiple challenges in terms of the quality and delivery of education. Tech-based solutions can bridge the gap in learning and streamline the education system. The education system includes, students at all levels, parents, schools, administration and the effects of quality education can have long-term implications on how things evolve in the world.
 
-Our solution addresses the following challenges: 
+### Our solution addresses the following challenges: 
 
 #1 Shared or online learning experiences 
 #2 Increase student engagement
