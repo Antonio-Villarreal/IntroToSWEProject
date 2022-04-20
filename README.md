@@ -1,4 +1,4 @@
-# edYOU
+# edYOU - The Educational Application
 Product Name: edYOU
 
 Product Description: 
