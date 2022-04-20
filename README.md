@@ -15,4 +15,11 @@ Due to the pandemic and the shift to online learning, the education system conti
 
 With our product, we mostly focus on addressing challenge statement 1 (Shared or online learning experiences) because it focuses on combating the lack of interest in online learning experiences. This product mimics common social media platforms' behavior but instead provides a continuous stream of learning and educational resources in short bursts. In addition, we address challenge statement 2 because our product reemphasizes education which can also increase students’ engagement in the online classroom and provide educational resources on specific topics.
 
+## Programming Languages/Frameworks
+
+Flutter (Dart), NodeJs, MongoDB, GraphQL, Google APIs, and iPhone/Android Emulators
+
+## Project Management Tools
+
+Github, Circle CI, Asana
 
