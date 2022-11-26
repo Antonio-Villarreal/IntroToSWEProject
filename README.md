@@ -238,9 +238,9 @@ NEWS_API_KEY=665631c3b57f47b79b0bda13de78cabe
 
 
 ### Sprint 1 Presentation
-<p align="center">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/euD2k7JsRis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 ### Sprint 2 Presentation and Demo
 <p align="center">
