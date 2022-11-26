@@ -243,6 +243,6 @@ NEWS_API_KEY=665631c3b57f47b79b0bda13de78cabe
 
 ## Team
 Antonio Villarreal - https://www.linkedin.com/in/antoniovillarreal2024/  
-Yair Temkin - https://www.linkedin.com/in/yair-temkin/ 
-Mariana Torres Torres - https://www.linkedin.com/in/mariana-torres-torres/
+Yair Temkin - https://www.linkedin.com/in/yair-temkin/    
+Mariana Torres Torres - https://www.linkedin.com/in/mariana-torres-torres/   
 Diane Chae - https://www.linkedin.com/in/seunghui-chae-7a12411aa/
