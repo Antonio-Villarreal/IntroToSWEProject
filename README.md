@@ -45,10 +45,10 @@ Due to the pandemic and the shift to online learning, the education system conti
 --  Learn the agile methodology   
 -- Project planning, backlog, forecasting, and retrospectives.   
 --Learn continuous integration, collaboration, version control and software testing.
- -   Work in a team oriented environment.   
+-   Work in a team oriented environment.   
  --Task distribution, communication and coordination.   
- -Learn to break down tasks and define responsibilities.    
- -Learn to use supporting tools for team collaboration.
+ --Learn to break down tasks and define responsibilities.    
+ --Learn to use supporting tools for team collaboration.
 -   Create solutions systematically.    
 --Learn to create design models.   
 --Develop implementation that is consistent with design.
