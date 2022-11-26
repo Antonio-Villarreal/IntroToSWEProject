@@ -232,20 +232,14 @@ NEWS_API_KEY=665631c3b57f47b79b0bda13de78cabe
 ## Sprint Presentations
 
 ### Sprint 0 Presentation
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SXnvakehMOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Sprint 0 Presentation](https://www.youtube.com/embed/SXnvakehMOw)
 
 
 ### Sprint 1 Presentation
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/euD2k7JsRis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[Sprint 1 Presentation](https://www.youtube.com/embed/euD2k7JsRis)
 
 ### Sprint 2 Presentation and Demo
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/07hM9DYSllw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Sprint 2 Presentation](https://www.youtube.com/embed/07hM9DYSllw)
 
 ## Team
 Antonio Villarreal - https://www.linkedin.com/in/antoniovillarreal2024/  
