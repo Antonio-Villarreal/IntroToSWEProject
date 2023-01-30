@@ -1,4 +1,4 @@
-# edYOU - The Educational Social Media Application
+# edYOU - Educational Social Media Application
 
 This was a project created for a class (CEN3031: Introduction to Software Engineering) at the University of Florida between February 2022 and April 2022. Feel free to view our final demonstration of our application right [here](https://www.youtube.com/embed/07hM9DYSllw).
 
